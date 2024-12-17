@@ -18,7 +18,7 @@ Make sure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Slafer/test-for-stakeme.git
-   cd your-repo-name
+   cd test-for-stakeme
    ```
 
 2. Install the dependencies:
